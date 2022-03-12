@@ -1,0 +1,46 @@
+.logo-container {
+  text-align: center;
+}
+.search {
+  background-color: rgb(240, 240, 240);
+  padding-bottom: 20px;
+  margin: 0 150px;
+  text-align: center;
+}
+
+.option {
+  margin: 1px 150px 0 150px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.special {
+  background-color: #70ccc2;
+  width: 33%;
+  float: left;
+  margin: 2px 2px 0px 0px;
+  padding: 37px;
+}
+
+.info {
+  background-color: #70ccc2;
+  width: 33%;
+  float: left;
+  margin: 2px 2px 0px 2px;
+  padding: 1px;
+}
+
+.subscribe {
+  background-color: #70ccc2;
+  width: 33%;
+  float: left;
+  margin: 2px 0px 0px 2px;
+  padding: 25px;
+}
+
+.copyright {
+  text-align: center;
+  margin: 20px;
+}
