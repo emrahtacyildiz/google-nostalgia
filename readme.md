@@ -1,13 +1,13 @@
-# Nostalji Çalışması
+# Nostalgia
 
-## Google 1999 İnternet Sitesi
+## Google 1999 Web Page
 
 ![preview](img/preview.JPG)
 
-Bu benim ilk bütün ve (linklerin hepsi düzgün çalışmasa da) bitmiş projemdir.
+This is my fisrt finished small project as a developer.
 
-**kodluyoruz.org**, **patika.dev** ve **Hakan Yalçınkaya**'ya bana *web geliştirme*nin temellerini öğrettikleri için çok teşekkür ederim.
+Many thanks to **kodluyoruz.org**, **patika.dev** and **Hakan Yalçınkaya**.
 
-Bundan sonra sıra **JavaScript**'te!!!
+Let's dive in **JavaScript**!!
 
-    <KODLAMAYA DEVAM!>
+    <KEEP CODING!>
